@@ -1,0 +1,12 @@
+F:\C#\SourceCode\net7mma-111212\Common\bin\Debug\Media.Common.dll
+F:\C#\SourceCode\net7mma-111212\Common\bin\Debug\Media.Common.pdb
+F:\C#\SourceCode\net7mma-111212\Common\obj\Debug\Media.Common.dll
+F:\C#\SourceCode\net7mma-111212\Common\obj\Debug\Media.Common.pdb
+I:\C#\net7mma-111212\Common\bin\Debug\Media.Common.dll
+I:\C#\net7mma-111212\Common\bin\Debug\Media.Common.pdb
+I:\C#\net7mma-111212\Common\obj\Debug\Media.Common.dll
+I:\C#\net7mma-111212\Common\obj\Debug\Media.Common.pdb
+I:\C#\SourceCode\net7mma-111212\Common\bin\Debug\Media.Common.dll
+I:\C#\SourceCode\net7mma-111212\Common\bin\Debug\Media.Common.pdb
+I:\C#\SourceCode\net7mma-111212\Common\obj\Debug\Media.Common.dll
+I:\C#\SourceCode\net7mma-111212\Common\obj\Debug\Media.Common.pdb

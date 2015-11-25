@@ -1,0 +1,15 @@
+v=0
+o=- 1 1 IN IP4 0.0.0.0
+s=RTSP Session
+i=Jabsco Stream(JCO-jy9757acx1eve7nm-a104aea23c1e17bbc776656f5069bbf7)
+c=IN IP4 218.204.223.237
+a=range:npt=now-
+a=control:*
+t=0 0
+m=video 0 RTP/AVP 96
+b=AS:120
+a=rtpmap:96 MP4V-ES/90000
+a=fmtp:96 profile-level-id=1;config=000001b001000001b5090000010100000120008449c428582120a21f;decode_buf=115200
+a=framerate:10
+a=framesize:96 352-288
+a=control:trackID=1
